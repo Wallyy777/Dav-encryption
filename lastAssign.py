@@ -25,14 +25,6 @@ The resulting ciphertext is:
 				[62, 218, 59, 87, 211, 85]
 Each of these steps is invertible, so carefully undoing them in the correct order decrypts the cipher text.
 Please note that the original nonce is needed for successful decryption.
-
-****Your Task****
-Your task is to implement the first three functions in this file.
-You may not alter __anything__ else.
-You may not change the name or parameters of these functions.
-Have fun!
-
-When you are done, your program should be able to encrypt and decrypt a file.
 '''
 
 import sys
